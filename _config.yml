@@ -5,8 +5,8 @@ description: >
   A blog.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://mostefaben.github.io/" # the base hostname & protocol for your site
-#twitter_username:  
-#github_username:   
+twitter_username:  mostefaben
+github_username:   mostefaben
 
 # Build settings
 markdown: kramdown
