@@ -1,12 +1,12 @@
 # Site settings
-title: Adam Paszke
+title: Mostefa Ben Naceur
 # email: your-email@domain.com
 description: >
   A blog.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://apaszke.github.io" # the base hostname & protocol for your site
-twitter_username: apaszke
-github_username:  apaszke
+url: "https://mostefaben.github.io/" # the base hostname & protocol for your site
+#twitter_username:  
+#github_username:   
 
 # Build settings
 markdown: kramdown
